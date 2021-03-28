@@ -1,0 +1,32 @@
+#top{
+    width: auto;
+    border: dashed;
+    text-align: center;
+    
+    background-color: orange;
+}
+
+#img{
+    width: auto;
+    border: 0;
+    text-align: center;
+    
+}
+
+body{
+    background-color: violet;
+}
+
+#bottom{
+    width: auto;
+    border: 0;
+    background-color: violet;
+    text-align: center;
+}
+
+#button{
+    color: orange;
+    text-align: center;
+    background-color: blue;
+
+}
